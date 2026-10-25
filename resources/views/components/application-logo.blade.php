@@ -1,0 +1,1 @@
+<img src="{{ asset('logo-barber.jpg') }}" alt="Firstbox Barber Shop" {{ $attributes->merge(['class' => 'rounded-xl object-cover']) }}>
